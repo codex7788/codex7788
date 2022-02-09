@@ -10,7 +10,7 @@
 
 👨‍💻 All of my personal projects are available at 
 [TODO](TODO)  
-📝 I regulary write articles on [https://codegrave.com](https://codegrave.com)  
+📝 I regulary write articles on [https://todo.com](https://todo.com)  
 💬 Ask me about **Java, Spring and Angular**  
 
 💬 Want to talk about something, feel free to reach me out.   
