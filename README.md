@@ -3,7 +3,7 @@
 
 🔭 I’m currently working as Software Engineer.           
 ⚡ Loves to work on Web and Open Source  
-🌱 Have worked on __Java__, __Spring__, __Python__, __Django__ and __NodeJs__  
+🌱 Have worked on __Java__, __Spring__, __Python__, __FastApi__ and __NodeJs__  
 🌱 And on __JavaScript__,  __React__ and __Angular__  
 🤔 Loves to explore new stuffs and contribute  
 <hr/>
