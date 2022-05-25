@@ -1,10 +1,10 @@
 <h1 align="center">Hi! there, 👋 I'm <strong></strong></h1>
-<h3 align="center">I'm a Software Engineer</h3>
+<h3 align="center">I'm a Software/Blockchain Engineer</h3>
 
-🔭 I’m currently working as Software Engineer.           
-⚡ Loves to work on Web and Open Source  
-🌱 Have worked on __Java__, __Spring__, __Python__, __FastApi__ and __NodeJs__  
-🌱 And on __JavaScript__,  __React__ and __Angular__  
+🔭 I’m currently working as Software Engineer developing blockchain related application on cardano blockchain.           
+⚡ Loves to work on Web3/Blockchain and Open Source  
+🌱 Have worked on ___Cardano/Haskell__,__Ethereum/Solidity__, __Java__, __SpringBoot__, __Python__, __FastApi__ and __Express/NodeJs__  
+🌱 And on __JavaScript/TypeScript__,  __React__.
 🤔 Loves to explore new stuffs and contribute  
 <hr/>
 
