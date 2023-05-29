@@ -3,7 +3,7 @@
 
 🔭 I’m currently working as Software Engineer developing blockchain related application on cardano blockchain.           
 ⚡ Loves to work on Web3/Blockchain and Open Source  
-🌱 Have worked on ___Cardano/Haskell__,__Ethereum/Solidity__, __Java__, __SpringBoot__, __Python__, __FastApi__ and __Express/NodeJs__  
+🌱 Have worked on __Cardano/Haskell__,__Ethereum/Solidity__, __Java__, __SpringBoot__, __Python__, __FastApi__ and __Express/NodeJs__  
 🌱 And on __JavaScript/TypeScript__,  __React__.
 🤔 Loves to explore new stuffs and contribute  
 <hr/>
