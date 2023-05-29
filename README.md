@@ -1,5 +1,5 @@
 <h1 align="center">Hi! there, 👋 I'm <strong></strong></h1>
-<h3 align="center">I'm a Software/Blockchain Engineer</h3>
+<h3 align="center">I'm a Blockchain Engineer</h3>
 
 🔭 I’m currently working as Software Engineer developing blockchain related application on cardano blockchain.           
 ⚡ Loves to work on Web3/Blockchain and Open Source  
