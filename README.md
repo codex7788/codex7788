@@ -23,6 +23,6 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin6246&layout=compact" alt="ashrawan" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabin6246&show_icons=true" alt="nabin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codex7788&show_icons=true" alt="nabin" /></p>
 
  <h3 align="center"> Happy Coding !!! 🚀</h3>
